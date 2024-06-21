@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @k-sravan2024
+- 👀 I’m interested in Explore tech
+- 🌱 I’m currently learning Azure Technologies
+- 💞️ I’m looking to collaborate on DE projects
